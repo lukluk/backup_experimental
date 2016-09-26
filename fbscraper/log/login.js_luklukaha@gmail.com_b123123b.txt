@@ -1,0 +1,4 @@
+open facebook.com done
+click[value=Masuk]
+waitFor#qdone
+phantom exit

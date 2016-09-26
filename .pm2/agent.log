@@ -1,0 +1,12 @@
+[Keymetrics.io] Launching agent
+2016-05-28 16:59:09: Launching Interactor exposure
+2016-05-28 16:59:10: [WATCHDOG] Launching
+2016-05-28 16:59:10: [PUSH] Connecting onyx.keymetrics.io:80
+2016-05-28 16:59:10: [REV] Connecting to onyx.keymetrics.io:43554
+2016-05-28 16:59:10: [WATCHDOG] Connected to PM2
+2016-05-28 16:59:10: [PUSH] PM2 interface ready, listening to PM2
+2016-05-28 16:59:10: [REV] Connected to PM2
+2016-05-28 16:59:10: [REV] Connected to onyx.keymetrics.io:43554
+2016-05-28 16:59:11: [PUSH] Connected
+2016-05-28 17:01:31: Killing interactor
+2016-05-28 17:01:31: Exiting Interactor

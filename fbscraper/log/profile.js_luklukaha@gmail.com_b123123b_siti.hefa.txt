@@ -1,0 +1,17 @@
+siti.hefa
+https://www.facebook.com/siti.hefa/about?section=education&pnref=about
+waitForli.experiencedone
+https://www.facebook.com/siti.hefa/about?section=living&pnref=about
+waitFor#current_city a4
+waitFor#current_city a5
+waitFor#current_city a6
+waitFor#current_city a7
+waitFor#current_city a8
+waitFor#current_city a9
+waitFor#current_city a10
+waitFor#current_city a11
+waitFor#current_city a12
+waitFor#current_city a13
+waitFor#current_city a14
+#current_city anot exist and may be timeout
+phantom exit

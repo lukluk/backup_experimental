@@ -1,0 +1,17 @@
+ika.shofiani
+https://www.facebook.com/ika.shofiani/about?section=education&pnref=about
+waitForli.experiencedone
+https://www.facebook.com/ika.shofiani/about?section=living&pnref=about
+waitFor#current_city a50
+waitFor#current_city a51
+waitFor#current_city a52
+waitFor#current_city a53
+waitFor#current_city a54
+waitFor#current_city a55
+waitFor#current_city a56
+waitFor#current_city a57
+waitFor#current_city a58
+waitFor#current_city a59
+waitFor#current_city a
+#current_city anot exist and may be timeout
+phantom exit

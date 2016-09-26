@@ -1,0 +1,5 @@
+waitFor[data-ft*="10210115560310133"]done
+clicka[aria-label*=Suka]1
+waitForul[role=tablist]29
+waitForul[role=tablist]done
+phantom exit

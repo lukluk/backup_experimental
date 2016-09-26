@@ -1,0 +1,8 @@
+henik.sulistyorini
+https://www.facebook.com/henik.sulistyorini/about?section=education&pnref=about
+waitForli.experiencedone
+https://www.facebook.com/henik.sulistyorini/about?section=living&pnref=about
+waitFor#current_city adone
+https://www.facebook.com/henik.sulistyorini/about?section=contact-info&pnref=about
+waitForul.fbProfileEditExperiencesdone
+phantom exit

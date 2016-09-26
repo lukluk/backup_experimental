@@ -1,0 +1,9 @@
+juragan.supirtruk
+https://www.facebook.com/juragan.supirtruk/about?section=education&pnref=about
+waitForli.experiencedone
+https://www.facebook.com/juragan.supirtruk/about?section=living&pnref=about
+waitFor#current_city adone
+https://www.facebook.com/juragan.supirtruk/about?section=contact-info&pnref=about
+waitForul.fbProfileEditExperiences34
+waitForul.fbProfileEditExperiencesdone
+phantom exit

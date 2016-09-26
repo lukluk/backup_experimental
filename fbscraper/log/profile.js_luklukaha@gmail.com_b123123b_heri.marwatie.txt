@@ -1,0 +1,17 @@
+heri.marwatie
+https://www.facebook.com/heri.marwatie/about?section=education&pnref=about
+waitForli.experiencedone
+https://www.facebook.com/heri.marwatie/about?section=living&pnref=about
+waitFor#current_city a19
+waitFor#current_city a20
+waitFor#current_city a21
+waitFor#current_city a22
+waitFor#current_city a23
+waitFor#current_city a24
+waitFor#current_city a25
+waitFor#current_city a26
+waitFor#current_city a27
+waitFor#current_city a28
+waitFor#current_city a29
+#current_city anot exist and may be timeout
+phantom exit

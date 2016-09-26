@@ -1,0 +1,11 @@
+open facebook.com done
+click[value=Masuk]1
+waitFor#q3
+waitFor#q4
+waitFor#qdone
+waitFor[data-ft*="10210115560310133"]5
+waitFor[data-ft*="10210115560310133"]done
+clicka[aria-label*=Suka]1
+waitForul[role=tablist]6
+waitForul[role=tablist]done
+phantom exit

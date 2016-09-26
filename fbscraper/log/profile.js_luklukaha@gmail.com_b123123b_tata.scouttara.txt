@@ -1,0 +1,17 @@
+tata.scouttara
+https://www.facebook.com/tata.scouttara/about?section=education&pnref=about
+waitForli.experiencedone
+https://www.facebook.com/tata.scouttara/about?section=living&pnref=about
+waitFor#current_city a1
+waitFor#current_city a2
+waitFor#current_city a3
+waitFor#current_city a4
+waitFor#current_city a5
+waitFor#current_city a6
+waitFor#current_city a7
+waitFor#current_city a8
+waitFor#current_city a9
+waitFor#current_city a10
+waitFor#current_city a11
+#current_city anot exist and may be timeout
+phantom exit

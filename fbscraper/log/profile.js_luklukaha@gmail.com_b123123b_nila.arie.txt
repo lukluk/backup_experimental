@@ -1,0 +1,8 @@
+nila.arie
+https://www.facebook.com/nila.arie/about?section=education&pnref=about
+waitForli.experiencedone
+https://www.facebook.com/nila.arie/about?section=living&pnref=about
+waitFor#current_city adone
+https://www.facebook.com/nila.arie/about?section=contact-info&pnref=about
+waitForul.fbProfileEditExperiencesdone
+phantom exit

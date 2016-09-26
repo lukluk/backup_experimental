@@ -1,0 +1,8 @@
+surat.min.37
+https://www.facebook.com/surat.min.37/about?section=education&pnref=about
+waitForli.experiencedone
+https://www.facebook.com/surat.min.37/about?section=living&pnref=about
+waitFor#current_city adone
+https://www.facebook.com/surat.min.37/about?section=contact-info&pnref=about
+waitForul.fbProfileEditExperiencesdone
+phantom exit

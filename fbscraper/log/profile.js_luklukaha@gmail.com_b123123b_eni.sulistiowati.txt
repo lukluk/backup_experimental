@@ -1,0 +1,17 @@
+eni.sulistiowati
+https://www.facebook.com/eni.sulistiowati/about?section=education&pnref=about
+waitForli.experiencedone
+https://www.facebook.com/eni.sulistiowati/about?section=living&pnref=about
+waitFor#current_city a26
+waitFor#current_city a27
+waitFor#current_city a28
+waitFor#current_city a29
+waitFor#current_city a30
+waitFor#current_city a31
+waitFor#current_city a32
+waitFor#current_city a33
+waitFor#current_city a34
+waitFor#current_city a35
+waitFor#current_city a36
+#current_city anot exist and may be timeout
+phantom exit

@@ -1,0 +1,17 @@
+desy.kartika.127
+https://www.facebook.com/desy.kartika.127/about?section=education&pnref=about
+waitForli.experiencedone
+https://www.facebook.com/desy.kartika.127/about?section=living&pnref=about
+waitFor#current_city a17
+waitFor#current_city a18
+waitFor#current_city a19
+waitFor#current_city a20
+waitFor#current_city a21
+waitFor#current_city a22
+waitFor#current_city a23
+waitFor#current_city a24
+waitFor#current_city a25
+waitFor#current_city a26
+waitFor#current_city a27
+#current_city anot exist and may be timeout
+phantom exit
